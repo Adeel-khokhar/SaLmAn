@@ -1,38 +1,43 @@
 # SaLmAn
 
 
-'pkg update'
-
-
-'pkg upgrade'
-
-
-'pkg install python'
-
-
-'pkg install python2'
-
-
-'pkg isntall git'
+pkg update
 
 
 
-'pip2 install requests'
+pkg upgrade
 
 
 
-'pip2 install mechanize'
+pkg install python
 
 
 
-'git clone https://github.com/Adeel-khokhar/SaLmAn'
+pkg install python2
 
 
 
-'cd SaLmAn'
+pkg isntall git
 
 
-'python2 Mahi.py'
+
+
+pip2 install requests
+
+
+
+pip2 install mechanize
+
+
+
+git clone https://github.com/Adeel-khokhar/SaLmAn
+
+
+
+cd SaLmAn
+
+
+python2 Mahi.py
 
 
 
